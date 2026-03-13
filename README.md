@@ -1,2 +1,2 @@
 # custom-wordpress-theme
-A custom WordPress theme demonstrating theme development, template hierarchy, custom functions, and best coding practices.
+A fully custom WordPress theme built using WordPress template hierarchy, custom functions, and best development practices.
